@@ -1,1 +1,3 @@
-XCOM 2 - Documents\MyGames\XCOM2\XComGame\SaveData
+XCOM 2 - C:\Users\-MyUserName-\Documents\MyGames\XCOM2\XComGame\SaveData
+
+Dark Souls 3 - C:\Users\-MyUserName-\AppData\Roaming\DarkSoulsIII
