@@ -1,3 +1,5 @@
 XCOM 2 - C:\Users\-MyUserName-\Documents\MyGames\XCOM2\XComGame\SaveData
 
 Dark Souls 3 - C:\Users\-MyUserName-\AppData\Roaming\DarkSoulsIII
+
+M E Andromeda - C:\Users\-MyUserName-\Documents\BioWare\Mass Effect Andromeda
